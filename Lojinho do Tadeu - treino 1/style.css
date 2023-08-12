@@ -6,3 +6,8 @@ body {
 
 }
 
+.container-main {
+  background-color: brown;
+  border-radius: 100%;
+  size: 2rem;
+}
